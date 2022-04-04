@@ -5,13 +5,13 @@ The data used in this project is from [The New York Times](https://github.com/ny
    - COVID-19 data from: 2020-01-21 until 2022-03-24
    
 Line Chart Generated:
-![Line Chart Result Screenshot](line-chart.png)
+![Line Chart Result Screenshot](results/line-chart.png)
 
 Line Chart (Scaled) Generated:
-![Scaled Line Chart Result Screenshot](line-chart-scaled.png)
+![Scaled Line Chart Result Screenshot](results/line-chart-scaled.png)
 
 Box Plot Generated:
-![Box Plot Result Sceenshot](box-plot.png)
+![Box Plot Result Sceenshot](results/box-plot.png)
 
 ## License, copyright & DISCLAIMER
 THIS SOFTWARE IS “<ins>IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE</ins> FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.”
